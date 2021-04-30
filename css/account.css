@@ -1,0 +1,31 @@
+#form-container
+{
+    box-shadow: 5px 10px 8px 1px #888888; background-color: white; border-width:1px; border-color: lightgray; border-radius: 3px; padding:20px; margin-left:15%; margin-right:15%;
+}
+
+.thin-h-line
+{height: 1px; background-color: #A02320; margin: 10px;}
+
+.thin-v-line
+{ 
+    background-color: #A02320;
+    width:1px; 
+    height: 100% !important;
+    margin: 10px !important;
+}
+
+
+.v-a-top 
+{
+    vertical-align: top;
+}
+ 
+
+.td1
+{width:48%; }
+
+.td2
+{width:480%;}
+
+#searchText
+{width: :30%;}

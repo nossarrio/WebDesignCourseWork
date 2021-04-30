@@ -1,0 +1,4 @@
+INSERT INTO `cardinfo`(`FirstName`, `LastName`, `CardNumber`, `CVV`, `Month`, `Year`) VALUES ('Nosa','Amadasun','2899029037488834','252','DECEMBER','2025');
+INSERT INTO `admin`(`FirstName`, `LastName`, `Email`, `Password`) VALUES ('Nosa','Amadasun','nossarrio@yahoo.com','123');
+INSERT INTO `drinks`(`Name`, `Category`, `Cost`, `Rating`, `Image`, `Id`, `Description`) VALUES ('Banks Beer','whiskey','100','5','images\products\bear-img.jpg','1','Lager 24 * 330ml');
+INSERT INTO `drinks`(`Name`, `Category`, `Cost`, `Rating`, `Image`, `Id`, `Description`) VALUES ('Baileys Beer','whiskey','33','3','images\products\baileys-img.jpg','2','Brown Milky Whisky');
